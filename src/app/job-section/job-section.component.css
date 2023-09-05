@@ -1,0 +1,9 @@
+.job-card {
+    cursor: pointer;
+}
+
+/* Custom CSS for job details */
+.job-details {
+    /* display: none; */
+    text-align: center;
+}
